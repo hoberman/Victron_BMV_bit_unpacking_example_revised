@@ -1,15 +1,15 @@
 # Victron_BMV_bit_unpacking_example
 
-***
-*** Please note: Based on some questions from people attempting to use my sample code I
-*** realize I may have a big-vs-little-endian byte ordering problem. Because of this, I have
-*** created this revised version as a second try at getting this right. I'll point out (again)
-*** that I don't have a BMV so I can't really test this in real life. I hope I'm
-*** not leading anyone down the wrong path!
-***
-*** If it turns out that the revised code leads you to find the right way to decode the BMV Battery
-*** Current field, please let me know so I can decommission my original version of the code.
-***
+Please note: Based on some questions from people attempting to use my sample code I
+realize I may have a big-vs-little-endian byte ordering problem. Because of this, I have
+created this revised version as a second try at getting this right. I'll point out (again)
+that I don't have a BMV so I can't really test this in real life. I hope I'm
+not leading anyone down the wrong path!
+
+If it turns out that the revised code leads you to find the right way to decode the BMV Battery
+Current field, please let me know so I can decommission my original version of the code.
+
+
 
 
 This is an example of how to unpack the "Aux Input" and "Battery Current" fields
