@@ -20,7 +20,7 @@ coding below into a larger, more functional program.
 
 This is related to the code in my Victron BLE decoding example:
 
-https://github.com/hoberman/Victron_BLE_Advertising_example/blob/main/Victron_BLE_Advertising_example.ino
+https://github.com/hoberman/Victron_BLE_Advertising_example/
 
   Information on the "extra manufacturer data" that we're picking up from Victron SmartSolar
   BLE advertising beacons can be found at:
